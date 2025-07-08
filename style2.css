@@ -1,0 +1,42 @@
+ #navbar { display: flex;
+        justify-content: center; 
+        align-items: center;        
+        background-color: #c6a8ff;
+        
+    }
+    #navbar a{
+        color: black;
+        text-decoration: none;
+        padding: 10px;
+        
+    }
+    #navbar h2{
+        color: black;
+        padding: 10px;
+
+    } 
+
+ body {
+
+background-color: #f2a541;
+}
+/*#gre{
+    display:flex;
+justify-content:space-evenly;
+
+} */
+.gre1{
+    width:30%;
+height:20%;
+
+}
+.gre2{
+    width:30%;
+height:20%;
+
+} 
+.gre3{
+    width:30%;
+height:20%;
+}
+        
