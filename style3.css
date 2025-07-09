@@ -21,35 +21,55 @@
 background-color: #f2a541;
 }
 
-h1 {
+p {
+    
+    font-size:xx-large;
+    text-align:center
+
+
+}
+
+#map    {
+
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+
+th     {
+
+    font-size:x-large;
+
+
+}
+
+
+
+
+
+.border{
 
     
-    text-align:center;
+    display:flex;
+    justify-content:center;
+    border-width: 5cm;
+}
+
+
+
+
+
+table  {
+
+    border:solid 4px black;
+    display:flex;
+    justify-content:center;
+    font-size:medium;
 
 }
 
-p  {
 
-    font-size:large;
-    text-align:center;
-
-}
-
-.gre1{
-    width:30%;
-height:20%;
-
-}
-.gre2{
-    width:30%;
-height:20%;
-
-} 
-.gre3{
-    width:30%;
-height:20%;
-}
-        
 footer {
  display: flex;
         justify-content: center;
